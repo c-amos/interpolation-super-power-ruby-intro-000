@@ -1,10 +1,10 @@
-# Write your #display_rainbow method here
-def display_rainbow(rainbow)
-  puts "R: #{rainbow[0]}"
-  puts "O: #{rainbow[1]}"
-  puts "Y: #{rainbow[1]}"
-  puts "G: #{rainbow[2]}"
-  puts "B: #{rainbow[3]}"
-  puts "I: #{rainbow[4]}"
-  puts "V: #{rainbow[5]}"
+# Write your #display_colors method here
+def display_rainbow(colors)
+  puts "R: #{colors[0]}"
+  puts "O: #{colors[1]}"
+  puts "Y: #{colors[1]}"
+  puts "G: #{colors[2]}"
+  puts "B: #{colors[3]}"
+  puts "I: #{colors[4]}"
+  puts "V: #{colors[5]}"
 end
