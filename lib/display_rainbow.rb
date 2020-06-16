@@ -1,6 +1,4 @@
 # Write your #display_colors method here
-colors = ['red','orange','blue','indigo','violet']
-
 def display_rainbow(colors)
   print "R: #{colors[0]}"
   print "O: #{colors[1]}"
